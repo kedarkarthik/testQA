@@ -6,4 +6,5 @@ import bar also
 import "foobar"
 
 1
+2
 
